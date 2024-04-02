@@ -27,7 +27,7 @@ public class RecibeMascota {
 
         RecibeMascota perro1 = new RecibeMascota();
 
-        perro1.nombrePerro = "Marte";
+        perro1.nombrePerro = "Marte"; 
         perro1.edad = 5;
         perro1.raza = "Guapo";
         perro1.tamaño = "Mediano";
